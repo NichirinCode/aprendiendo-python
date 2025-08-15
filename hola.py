@@ -1,0 +1,1 @@
+print("Hola, mundo!") # Aquí se imprime un saludo en español.
